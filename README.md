@@ -2,7 +2,7 @@
 
 ![Project Banner](./src/images/alura-tailwind-project.png)
 
-> **[Live Demo](https://#)**
+> **[Live Demo](https://alura-tailwind.vercel.app/)**
 
 ## 💻 Project Details
 
