@@ -10,7 +10,7 @@ This mobile first web application was made during @Alura Tailwind CSS training. 
 
 - HTML 
 - [Tailwind CSS](https://tailwindcss.com/) 
-- Deplay at [Vercel](https://vercel.com/) 
+- Deploy at [Vercel](https://vercel.com/) 
 
 ## ✨ [Training Certificate](https://cursos.alura.com.br/certificate/santosvinicius/tailwind-css-estilizando-pagina-classes-utilitarias)
 
